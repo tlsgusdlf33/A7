@@ -1,0 +1,17 @@
+# 공고 원문 키워드
+Technical Sales
+Machinery
+Mechanical Package
+에너지
+# 직무 통상 키워드
+입찰
+RFQ
+Technical Bid
+TBE
+Deviation
+Clarification
+EPC
+발전
+고객
+수주
+API 610

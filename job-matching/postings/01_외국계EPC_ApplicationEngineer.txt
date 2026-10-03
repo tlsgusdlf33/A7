@@ -1,0 +1,18 @@
+# 공고 원문 키워드
+EPC
+기계
+Application Engineer
+# 직무 통상 키워드 (공고 본문 미기재 -> 헤드헌터 확인 후 보정)
+RFQ
+TBE
+Deviation
+Clarification
+API 610
+Datasheet
+Performance curve
+NPSH
+Mechanical seal
+Vendor Document
+Sizing
+Selection
+영문
